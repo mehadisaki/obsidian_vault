@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOP.md",
+                "file": "Study plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SOP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,5 +143,10 @@
     }
   },
   "active": "d16ff0d3b21062fc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Life plan.canvas",
+    "Study plan.md",
+    "SOP.md",
+    "2023-01-08.md"
+  ]
 }
