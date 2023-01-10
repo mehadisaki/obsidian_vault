@@ -11,15 +11,69 @@
             "id": "d16ff0d3b21062fc",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Life plan.canvas",
+                "viewState": {
+                  "x": -232,
+                  "y": -309.5,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "3cb448c8251393c1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Study plan.md",
+                "file": "Data science project/Project/Project list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ac11e5721faf8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data science project/Study material/Study links.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67620b47f36721d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data science project/Study material/Pareto analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aebf9e5ed924be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data science project/Study material/Study links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data science project/Study material/Study links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data science project/Study material/Study links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data science project/Study material/Study links.md"
+              }
             }
           }
         ]
@@ -142,11 +200,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d16ff0d3b21062fc",
+  "active": "4aebf9e5ed924be6",
   "lastOpenFiles": [
+    "Data science project/Project/Project list.md",
+    "Data science project/Study material/Weibull distribution.md",
+    "Data science project/Study material/Pareto analysis.md",
+    "Data science project/Study material/Study links.md",
     "Life plan.canvas",
-    "Study plan.md",
-    "SOP.md",
+    "Untitled/Study plan.md",
+    "Untitled/SOP.md",
+    "Untitled.md",
     "2023-01-08.md"
   ]
 }
