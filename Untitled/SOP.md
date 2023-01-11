@@ -1,1 +1,0 @@
-From early childhood
