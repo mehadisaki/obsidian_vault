@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Abroad/SOP/SOP- University of Cargary..md",
+                "file": "Study Abroad/SOP/SOP- University of Cargary old.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "413f68b9d92bd019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Abroad/SOP/SOP-2 University of Cargary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Abroad/SOP/SOP- University of Cargary..md",
+                "file": "Study Abroad/SOP/SOP-2 University of Cargary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Abroad/SOP/SOP- University of Cargary..md",
+                "file": "Study Abroad/SOP/SOP-2 University of Cargary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Abroad/SOP/SOP- University of Cargary..md"
+                "file": "Study Abroad/SOP/SOP-2 University of Cargary.md"
               }
             }
           }
@@ -155,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b84dbf3b4ba4d2b",
+  "active": "413f68b9d92bd019",
   "lastOpenFiles": [
+    "Study Abroad/SOP/SOP- University of Cargary old.md",
+    "Study Abroad/SOP/SOP-2 University of Cargary.md",
     "Data science project/Project/Project list.md",
-    "Study Abroad/SOP/SOP- University of Cargary..md",
     "Study Abroad/Study plan.md",
     "Pasted image 20230110165713.png",
     "SOP.md",
