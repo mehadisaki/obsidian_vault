@@ -1,72 +1,35 @@
 {
   "main": {
-    "id": "0e600876eb001fac",
+    "id": "37301ab5c7018b03",
     "type": "split",
     "children": [
       {
-        "id": "d225d1562820d397",
+        "id": "df07b9a7677bf2f0",
         "type": "tabs",
         "children": [
           {
-            "id": "d16ff0d3b21062fc",
+            "id": "a7ca7c1fe0ca068e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2623855c04b25b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Abroad/SOP/SOP- University of Cargary old.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "413f68b9d92bd019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Abroad/SOP/SOP-2 University of Cargary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caa07dc01095ad39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/OCR/Installation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "637c9fa5d44af9df",
+    "id": "efd8199acdaf2ec2",
     "type": "split",
     "children": [
       {
-        "id": "cd6c01ab1658e5f9",
+        "id": "f02065d4a5df9b73",
         "type": "tabs",
         "children": [
           {
-            "id": "1b84dbf3b4ba4d2b",
+            "id": "42342ddc43057b53",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +39,7 @@
             }
           },
           {
-            "id": "0de820a6744c3d52",
+            "id": "791aa0b3a7f80a7b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +54,7 @@
             }
           },
           {
-            "id": "ca77414a85deddd6",
+            "id": "eed220d1f527e602",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -102,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "2271942de82d12ec",
+    "id": "4ed78a87f530934f",
     "type": "split",
     "children": [
       {
-        "id": "3aa02d9647639454",
+        "id": "52afd421f50d4d2f",
         "type": "tabs",
         "children": [
           {
-            "id": "4f7540aba8170ee5",
+            "id": "97ca9593f721c6dd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/OCR/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +92,18 @@
             }
           },
           {
-            "id": "dd5fb7c8790bc347",
+            "id": "86c5919d1ea90a47",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/OCR/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "495f994d84d7bb10",
+            "id": "0e2b7848de673e52",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,13 +114,11 @@
             }
           },
           {
-            "id": "6aa7806c4778ba51",
+            "id": "a2c472e15309de03",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/OCR/Installation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,17 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b84dbf3b4ba4d2b",
-  "lastOpenFiles": [
-    "Study Abroad/SOP/SOP-2 University of Cargary.md",
-    "Study Abroad/SOP/SOP- University of Cargary old.md",
-    "Data science project/Project/Project list.md",
-    "Study Abroad/Study plan.md",
-    "Pasted image 20230110165713.png",
-    "SOP.md",
-    "Study plan.md",
-    "To get remote Job.md",
-    "Life plan.canvas",
-    "2023-01-08.md"
-  ]
+  "active": "a7ca7c1fe0ca068e",
+  "lastOpenFiles": []
 }
