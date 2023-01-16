@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT-ans/Thesis.md",
+                "file": "ChatGPT-ans/Phd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae82ee31840b0b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT-ans/Public policy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT-ans/Thesis.md",
+                "file": "ChatGPT-ans/Public policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT-ans/Thesis.md",
+                "file": "ChatGPT-ans/Public policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT-ans/Thesis.md"
+                "file": "ChatGPT-ans/Public policy.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9843067c652fb2a2",
+  "active": "ae82ee31840b0b34",
   "lastOpenFiles": [
-    "ChatGPT-ans/Phd.md"
+    "ChatGPT-ans/Phd.md",
+    "Study Abroad/Study plan.md",
+    "ChatGPT-ans/Thesis.md"
   ]
 }
