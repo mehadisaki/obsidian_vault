@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "837df3ca6ee97f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metal Corrosion/Corrosion in Bangladesh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Corrosion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
+                "file": "Metal Corrosion/Corrosion in Bangladesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
+                "file": "Metal Corrosion/Corrosion in Bangladesh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md"
+                "file": "Metal Corrosion/Corrosion in Bangladesh.md"
               }
             }
           }
@@ -160,9 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b733d04f27fab95d",
+  "active": "837df3ca6ee97f8c",
   "lastOpenFiles": [
-    "Metal Corrosion/Reason behind corrosion.md",
-    "Metal Corrosion/Zinc caoting.md"
+    "Metal Corrosion/Zinc caoting.md",
+    "Metal Corrosion/Reason behind corrosion.md"
   ]
 }
