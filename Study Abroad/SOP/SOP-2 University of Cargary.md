@@ -27,3 +27,4 @@ I carefully read the doctoral program offer from the University of Calgary resea
 A country like Canada is one of the most livable and progressive countries. It shines in scientific and technological innovation and social stability. So if I get a chance to enter this doctoral program, it will be my dream come true. I have sufficient hard-working experience and have worked with people from various cultures.
 
 With my academic background, work experience, research experience, and intensive dedication to creating new knowledge, I strongly believe that I can contribute to the research group under the Doctoral program of the University of Calgary.
+

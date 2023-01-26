@@ -1,37 +1,52 @@
 {
   "main": {
-    "id": "07fe582a2f086823",
+    "id": "acc34add946b0538",
     "type": "split",
     "children": [
       {
-        "id": "16f1613631fedfaa",
+        "id": "b8986f6dc4b84d74",
         "type": "tabs",
         "children": [
           {
-            "id": "4a4ce348d79345c4",
+            "id": "da9246fc886554aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230126132049.png"
+                "file": "Metal Corrosion/Zinc caoting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86ea0ac7f34033ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metal Corrosion/Zinc caoting.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b37219867b29762d",
+    "id": "cc8987665a81158a",
     "type": "split",
     "children": [
       {
-        "id": "ed671101eace63a8",
+        "id": "59c9da20c68d9bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "02fe8a180c74b562",
+            "id": "39ec076fbed9fb34",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,12 +56,12 @@
             }
           },
           {
-            "id": "f83047c1004d8cd1",
+            "id": "b733d04f27fab95d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Corrosion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,34 +71,35 @@
             }
           },
           {
-            "id": "f1acae795fb8cc92",
+            "id": "969c9cd20082489f",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "9327b9637cadf3b6",
+    "id": "fa95fa5694fde30e",
     "type": "split",
     "children": [
       {
-        "id": "4f23c00fafc700c5",
+        "id": "955fcfc1042d3785",
         "type": "tabs",
         "children": [
           {
-            "id": "ec7f5b071b7bce2d",
+            "id": "fed5bfad65128aff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230126132049.png",
+                "file": "Metal Corrosion/Zinc caoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +111,19 @@
             }
           },
           {
-            "id": "65b32db5d7a291c0",
+            "id": "62d11e718b6ed178",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230126132049.png",
+                "file": "Metal Corrosion/Zinc caoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "55b40d562b90a3ec",
+            "id": "30fcd8dcfede5621",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +134,12 @@
             }
           },
           {
-            "id": "edef23cfcfc15f9e",
+            "id": "8f6e2055e1c09830",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230126132049.png"
+                "file": "Metal Corrosion/Zinc caoting.md"
               }
             }
           }
@@ -144,17 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a4ce348d79345c4",
+  "active": "b733d04f27fab95d",
   "lastOpenFiles": [
-    "Study Abroad/Study plan.md",
-    "Metal Corrosion/Zinc caoting.md",
-    "ChatGPT-ans/Thesis.md",
-    "Life plan.canvas",
-    "Data science project/Study material/Weibull distribution.md",
-    "Data science project/Study material/Study links.md",
-    "Data science project/Study material/Pareto analysis.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Metal Corrosion/SST.md"
+    "Metal Corrosion/Reason behind corrosion.md",
+    "Metal Corrosion/Zinc caoting.md"
   ]
 }
