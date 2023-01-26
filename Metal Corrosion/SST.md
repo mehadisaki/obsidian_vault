@@ -1,0 +1,20 @@
+### When someone asks me how galvanized steel performs in salt spray tests, what do I tell them?
+[link](https://galvanizeit.org/knowledgebase/article/salt-spray-testing) 
+
+Atmospheric corrosion testing of metals and materials has a long history of use in the evaluation of uncoated and coated metallic products. Salt spray test results are often used to determine the suitability of a material system for a particular application. Salt spray testing to ASTM B117, Standard Practice for Operating Salt Spray (Fog). Testing apparatus remains the standard method to assess a galvanized coating for corrosion control in some applications. This is despite the fact that severe criticism of this method has been observed in literature for many years, particularly regarding the lack of correlation with service experiences and field applications.
+
+The salt spray test is the exposure of the surface coating to a fine mist containing 5% sodium chloride, for a given time, at room temperature. For galvanized steel, the spray test, ASTM B117, accelerates the wrong corrosion mechanism. The salt spray attacks the bare zinc. Zinc is well known for its ability to resist corrosion, but what is not so well known is that his resistance depends on the formation of a reaction product barrier on its surface. When galvanized products are exposed to normal use, such as in the marine or road salt environment, the zinc  forms a protective layer of mainly zinc carbonate. After the protective film is formed, it resists attack by salt and other elements and ensures long-term corrosion protection.
+
+In prescribed laboratory condition, detailed in ASTM B117, ==the zinc carbonate cannot form its protective film. The constant spray prevents exposure to the atmosphere which is critical in the formation of the zinc carbonate.==  Since the zinc carbonate is not formed, the salt spray interacts directly with the zinc metal. The part corrodes very quickly when the salt spray attacks the zinc metal.
+
+==When these results were observed, they often lead to a false conclusion as to the corrosion resistance and service life of zinc coatings in actual use.== More meaningful accelerated atmospheric corrosion must allow cycling of the metal surface condition through both wet and dry periods. A more realistic salt spray test is ==ASTM G85==, Standard Practice for Modified Salt Spray, (Fog) Testing. In particular, wet-dry cycles simulate the natural wetting and drying which occurs in the field.
+
+==This test uses the wet-dry salt spray test using a solution of ammonium sulfate and sodium chloride.== The test consists of cycles of one hour of fog followed by one hour of dry. The fog is performed at room temperature and the dry is an elevated temperature, approximately 95F. The test should be run for at least 16 hours.
+
+Wet-dry testing is recognized as providing a more realistic accelerated test but it must be used with an appropriate salt solution. The use of dilute mixed salt sprays, appropriately tailored to the environment of interest, reproduces the corrosion products and morphologies representative of natural corrosion of zinc and galvanized steel.
+
+When all the data is examined, all accelerated corrosion tests do not adequately show the corrosion behavior of zinc. If the wrong mechanism is accelerated by the testing method, then the test results cannot be compared to existing parts in the field which hare in the same or similar environments. 
+
+  
+
+© 2023 American Galvanizers Association. The material provided herein has been developed to provide accurate and authoritative information about after-fabrication hot-dip galvanized steel. This material provides general information only and is not intended as a substitute for competent professional examination and verification as to suitability and applicability. The information provided herein is not intended as a representation or warranty on the part of the AGA. Anyone making use of this information assumes all liability arising from such use.
