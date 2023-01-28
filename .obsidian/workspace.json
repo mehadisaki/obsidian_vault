@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78819dbd31681665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metal Corrosion/Zinc caoting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metal Corrosion/Corrosion in Bangladesh.md",
+                "file": "Metal Corrosion/Zinc caoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metal Corrosion/Corrosion in Bangladesh.md",
+                "file": "Metal Corrosion/Zinc caoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metal Corrosion/Corrosion in Bangladesh.md"
+                "file": "Metal Corrosion/Zinc caoting.md"
               }
             }
           }
@@ -171,9 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "837df3ca6ee97f8c",
+  "active": "78819dbd31681665",
   "lastOpenFiles": [
-    "Metal Corrosion/Zinc caoting.md",
-    "Metal Corrosion/Reason behind corrosion.md"
+    "Metal Corrosion/SST.md",
+    "Metal Corrosion/Reason behind corrosion.md",
+    "Study Abroad/link.md",
+    "Metal Corrosion/Corrosion in Bangladesh.md",
+    "Metal Corrosion/Zinc caoting.md"
   ]
 }
