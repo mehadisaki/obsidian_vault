@@ -21,7 +21,10 @@ The durability of the galvanized coatings depends on the following environmental
 An ASTM standard has been developed for modified salt spray testing. It is G85 Standard Practice for Modified Salt Spray (Fog) Testing, and has several modifications involving cyclic additions of acid and SO2. This standard is not as widely used as B117. Method A5 of G85 has been found by some producers to be able to rank ==materials== and coatings similar to that witnessed in actual servicei .
 [link](https://obsidian.md/)
 
------------------
+==Galvanize (zinc-coated) 10 hours SST for  Approximate Time to 5% Red Rust (per micron [µm] of coating thickness).== [ref](https://www.galvinfo.com/wp-content/uploads/sites/8/2017/05/GalvInfoNote_3_4.pdf) 
+
+
+-------------------------------------
 By CahtGPT
 # Corrosion rate measurment 
 
@@ -98,3 +101,5 @@ There are several ==**Electrochemical Impedance Spectroscopy (EIS)**== devices a
 8.  Bio-Logic SP-200 Impedance/Gain-Phase Analyzer
 
 These are just a few examples, there are many other EIS devices available from different manufacturers. These devices vary in terms of features, specifications, and price. It is important to select the right EIS device for your application, and to consider factors such as the measurement range, accuracy, and resolution of the device, as well as its ease of use and compatibility with your existing equipment.
+
+
