@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "641efb9b1a0ebebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
+                "file": "Research/Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
+                "file": "Research/Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md"
+                "file": "Research/Writing.md"
               }
             }
           }
@@ -183,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78819dbd31681665",
+  "active": "641efb9b1a0ebebb",
   "lastOpenFiles": [
-    "Metal Corrosion/SST.md",
     "Metal Corrosion/Zinc caoting.md",
+    "Metal Corrosion/SST.md",
     "Metal Corrosion/Reason behind corrosion.md",
     "2023-01-29.md",
     "Study Abroad/link.md",
