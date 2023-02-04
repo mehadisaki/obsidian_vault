@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
+                "file": "Research/Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "560a3d33df9d5c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Public policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
+                "file": "Blog/Public policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
+                "file": "Blog/Public policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metal Corrosion/Zinc caoting.md"
+                "file": "Blog/Public policy.md"
               }
             }
           }
@@ -243,17 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ce4905236dedfeb",
+  "active": "560a3d33df9d5c28",
   "lastOpenFiles": [
-    "Passive income.md",
-    "Metal Corrosion/Corrosion resistence Test.md",
+    "Research/Writing.md",
     "Metal Corrosion/Zinc caoting.md",
+    "Metal Corrosion/Corrosion resistence Test.md",
+    "Metal Corrosion/Posmac.md",
+    "Metal Corrosion/Corrosion in Bangladesh.md",
+    "Metal Corrosion/Check list.md",
+    "Passive income.md",
     "Metal Corrosion/SST.md",
     "Metal Corrosion/Reason behind corrosion.md",
-    "Metal Corrosion/Posmac.md",
-    "Metal Corrosion/Check list.md",
-    "Research/Writing.md",
-    "2023-01-29.md",
-    "Study Abroad/link.md"
+    "2023-01-29.md"
   ]
 }
