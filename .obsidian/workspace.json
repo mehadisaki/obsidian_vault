@@ -1,98 +1,14 @@
 {
   "main": {
-    "id": "acc34add946b0538",
+    "id": "bc2d809466c7977b",
     "type": "split",
     "children": [
       {
-        "id": "b8986f6dc4b84d74",
+        "id": "76951fb2ec2b6b4a",
         "type": "tabs",
         "children": [
           {
-            "id": "da9246fc886554aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86ea0ac7f34033ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "837df3ca6ee97f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Corrosion in Bangladesh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78819dbd31681665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "641efb9b1a0ebebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99d09ed3946f9cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Posmac.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ce4905236dedfeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "560a3d33df9d5c28",
+            "id": "10f72e726bad1102",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,45 +20,33 @@
             }
           },
           {
-            "id": "783f162e67c040e5",
+            "id": "c9a2f7041cd1aff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passive income.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0a4f52c3e8080e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Passive income.md",
+                "file": "Youtube/Crisis Chronicles/intro to Public policy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cc8987665a81158a",
+    "id": "4f8f526c9c6f98a2",
     "type": "split",
     "children": [
       {
-        "id": "59c9da20c68d9bd2",
+        "id": "34494181bc857d52",
         "type": "tabs",
         "children": [
           {
-            "id": "39ec076fbed9fb34",
+            "id": "fa36ddeaab8be6af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -152,7 +56,7 @@
             }
           },
           {
-            "id": "b733d04f27fab95d",
+            "id": "38aa9c72e45ca6ae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -167,7 +71,7 @@
             }
           },
           {
-            "id": "969c9cd20082489f",
+            "id": "e8f7fc28a044a4a3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -181,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "fa95fa5694fde30e",
+    "id": "c2602c51f8db6274",
     "type": "split",
     "children": [
       {
-        "id": "955fcfc1042d3785",
+        "id": "7b6be305ecc11d63",
         "type": "tabs",
         "children": [
           {
-            "id": "fed5bfad65128aff",
+            "id": "6b88b2b90fe6c72c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Public policy.md",
+                "file": "Youtube/Crisis Chronicles/intro to Public policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,19 +110,19 @@
             }
           },
           {
-            "id": "62d11e718b6ed178",
+            "id": "240b7533580985f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Public policy.md",
+                "file": "Youtube/Crisis Chronicles/intro to Public policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "30fcd8dcfede5621",
+            "id": "6110158dc5ffd5c8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -229,12 +133,12 @@
             }
           },
           {
-            "id": "8f6e2055e1c09830",
+            "id": "213a370dba0ce970",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Public policy.md"
+                "file": "Youtube/Crisis Chronicles/intro to Public policy.md"
               }
             }
           }
@@ -255,17 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "560a3d33df9d5c28",
+  "active": "c9a2f7041cd1aff0",
   "lastOpenFiles": [
-    "Research/Writing.md",
-    "Metal Corrosion/Zinc caoting.md",
-    "Metal Corrosion/Corrosion resistence Test.md",
-    "Metal Corrosion/Posmac.md",
-    "Metal Corrosion/Corrosion in Bangladesh.md",
-    "Metal Corrosion/Check list.md",
-    "Passive income.md",
-    "Metal Corrosion/SST.md",
-    "Metal Corrosion/Reason behind corrosion.md",
-    "2023-01-29.md"
+    "Blog/Public policy.md",
+    "Research/Writing.md"
   ]
 }
