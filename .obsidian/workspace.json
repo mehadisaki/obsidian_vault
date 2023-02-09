@@ -1,88 +1,35 @@
 {
   "main": {
-    "id": "acc34add946b0538",
+    "id": "89e121f1c9a47c7e",
     "type": "split",
     "children": [
       {
-        "id": "b8986f6dc4b84d74",
+        "id": "d320e27cfd0aa491",
         "type": "tabs",
         "children": [
           {
-            "id": "da9246fc886554aa",
+            "id": "efd670d712fbe67f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86ea0ac7f34033ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Zinc caoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "837df3ca6ee97f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Corrosion in Bangladesh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78819dbd31681665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Abroad/link.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "641efb9b1a0ebebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Writing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cc8987665a81158a",
+    "id": "f7e1e924158ab4d7",
     "type": "split",
     "children": [
       {
-        "id": "59c9da20c68d9bd2",
+        "id": "2cc81968df9590b4",
         "type": "tabs",
         "children": [
           {
-            "id": "39ec076fbed9fb34",
+            "id": "82bc72cebb639b49",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +39,7 @@
             }
           },
           {
-            "id": "b733d04f27fab95d",
+            "id": "5908561af8c7a358",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +54,7 @@
             }
           },
           {
-            "id": "969c9cd20082489f",
+            "id": "a093e4311c7b8b9e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -121,24 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "fa95fa5694fde30e",
+    "id": "e3a6d249ad0b1990",
     "type": "split",
     "children": [
       {
-        "id": "955fcfc1042d3785",
+        "id": "30f7ab796d066564",
         "type": "tabs",
         "children": [
           {
-            "id": "fed5bfad65128aff",
+            "id": "03222e2f8e65ced9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Study Abroad/link.md",
-=======
-                "file": "Research/Writing.md",
->>>>>>> 05ae75257a7f5d02bcf75c9c60f6e5809d8dd788
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,23 +92,18 @@
             }
           },
           {
-            "id": "62d11e718b6ed178",
+            "id": "15d83153d18519ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Study Abroad/link.md",
-=======
-                "file": "Research/Writing.md",
->>>>>>> 05ae75257a7f5d02bcf75c9c60f6e5809d8dd788
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "30fcd8dcfede5621",
+            "id": "a294ababbb1b0f18",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,17 +114,11 @@
             }
           },
           {
-            "id": "8f6e2055e1c09830",
+            "id": "9bc0156b38f8568c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Study Abroad/link.md"
-=======
-                "file": "Research/Writing.md"
->>>>>>> 05ae75257a7f5d02bcf75c9c60f6e5809d8dd788
-              }
+              "state": {}
             }
           }
         ]
@@ -207,17 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "641efb9b1a0ebebb",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "ML/OCR/Installation.md",
-=======
->>>>>>> 05ae75257a7f5d02bcf75c9c60f6e5809d8dd788
-    "Metal Corrosion/Zinc caoting.md",
-    "Metal Corrosion/SST.md",
-    "Metal Corrosion/Reason behind corrosion.md",
-    "2023-01-29.md",
-    "Study Abroad/link.md",
-    "Metal Corrosion/Corrosion in Bangladesh.md"
-  ]
+  "active": "efd670d712fbe67f",
+  "lastOpenFiles": []
 }
