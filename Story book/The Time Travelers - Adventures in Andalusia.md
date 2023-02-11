@@ -1,3 +1,5 @@
+
+
 ## Chapter 1: The Time Travel Begins 
 
 Once upon a time, there were two best friends named Max and Alex, Who lived in America, and loved to play with text.
@@ -133,3 +135,11 @@ Together, these scholars showed Max and Alex the way, And now, they know that sc
 
 where Max and Alex continue their journey through time, discovering the rich history and culture of Andalusia. With each step, they learn more about the brilliant minds that once called Cordova home, including the famous scholars and inventors who pushed the boundaries of science and technology. From the grand Alhambra Palace to the bustling bazaar and the renowned library, there's so much to explore and learn in this magical land. And as the boys venture deeper into the past, they realize that their journey is far from over, and that there's still so much more to discover about the wonders of Andalusia and showcase how Cordova was a peaceful society in its Golden Age.
 ## Chapter 12: A Journey Home
+
+Max and Alex's journey was coming to an end, With memories of Cordova to hold and to bend. They had seen palaces grand, a mosque with such might, A library full of books, a market full of light.
+
+They traveled to Granada, to see the Alhambra, A palace made of beauty, a story to enthrall ya. They learned of science, technology and art, From scholars like Firnas, Zahrawi and al-Hakim's part.
+
+And on their journey home, they couldn't help but smile, With peaceful thoughts of Cordova, in a time that was so vile. For though the boys were young, their minds were sharp and bright, They held onto their memories, of the journey that was right.
+
+And so their journey home, was a journey through time, To the past, to a world, that was once so sublime. With tales to share and memories to keep, Max and Alex's journey, was a story they could leap.
