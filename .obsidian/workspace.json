@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a70fd2ff89475c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story book/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Islamization of knowledge.md",
+                "file": "Story book/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Islamization of knowledge.md",
+                "file": "Story book/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Islamization of knowledge.md"
+                "file": "Story book/Untitled.md"
               }
             }
           }
@@ -171,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281230dab3276488",
+  "active": "a70fd2ff89475c2a",
   "lastOpenFiles": [
+    "Islamization of knowledge.md",
     "Youtube/Crisis Chronicles/intro to Public policy.md",
     "Blog/Public policy.md",
     "Research/Writing.md"
