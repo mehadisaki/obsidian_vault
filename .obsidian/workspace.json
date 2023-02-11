@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "89e121f1c9a47c7e",
+    "id": "5feac1ed5e27ed52",
     "type": "split",
     "children": [
       {
-        "id": "d320e27cfd0aa491",
+        "id": "45a65b5d1d544b25",
         "type": "tabs",
         "children": [
           {
-            "id": "efd670d712fbe67f",
+            "id": "bb12d6ba05a42de5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Islamization of knowledge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f7e1e924158ab4d7",
+    "id": "df6119c35f818404",
     "type": "split",
     "children": [
       {
-        "id": "2cc81968df9590b4",
+        "id": "23af1dc03ffe5cef",
         "type": "tabs",
         "children": [
           {
-            "id": "82bc72cebb639b49",
+            "id": "e781857f12946bb8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "5908561af8c7a358",
+            "id": "f3862bcf8d9ce0fc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "a093e4311c7b8b9e",
+            "id": "f914806c6ac8a9bc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e3a6d249ad0b1990",
+    "id": "548d574a44348020",
     "type": "split",
     "children": [
       {
-        "id": "30f7ab796d066564",
+        "id": "c00b7e56ce6585cb",
         "type": "tabs",
         "children": [
           {
-            "id": "03222e2f8e65ced9",
+            "id": "9f6de8f95199f17a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Islamization of knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "15d83153d18519ba",
+            "id": "aa13a27df598287a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Islamization of knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a294ababbb1b0f18",
+            "id": "31524e99191fc542",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "9bc0156b38f8568c",
+            "id": "e1edd1e20b4c028e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Islamization of knowledge.md"
+              }
             }
           }
         ]
@@ -138,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efd670d712fbe67f",
+  "active": "bb12d6ba05a42de5",
   "lastOpenFiles": []
 }
