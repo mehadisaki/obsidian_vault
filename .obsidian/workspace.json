@@ -49,134 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "AI Idea for Foreign Ministery.md",
-=======
-                "file": "Data science project/Study material/Weibull distribution.md",
+                "file": "Idea on AI/AI Idea for Foreign Ministery.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96e8253c6fc01f6c",
+            "id": "50a244046f663e38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data science project/Data course/indroductory/Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c08466cd2aaea7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data science project/Data course/indroductory/Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "086d6e5c03339028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data science project/Project/Project list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9da026be46e60ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/SST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da6faad7daa2bd19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metal Corrosion/Relative humidity (RH).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17bcd230608826c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "107cced2cf016eb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Youtube/Channel name.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a88b6f292b31be0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "b227a8b2b75fbe81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data science project/Study material/Date and Time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aba61de0cdd5b4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data science project/Study material/Date and Time.md",
->>>>>>> 1601a307bb6a8f8168e5ca1eefd6b46db0a19d19
+                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,11 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "AI Idea for Foreign Ministery.md",
-=======
-                "file": "Data science project/Study material/Date and Time.md",
->>>>>>> 1601a307bb6a8f8168e5ca1eefd6b46db0a19d19
+                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,11 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "AI Idea for Foreign Ministery.md",
-=======
-                "file": "Data science project/Study material/Date and Time.md",
->>>>>>> 1601a307bb6a8f8168e5ca1eefd6b46db0a19d19
+                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,11 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "AI Idea for Foreign Ministery.md"
-=======
-                "file": "Data science project/Study material/Date and Time.md"
->>>>>>> 1601a307bb6a8f8168e5ca1eefd6b46db0a19d19
+                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md"
               }
             }
           }
@@ -315,31 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "63665b2ec222ea8e",
+  "active": "8d3231e5a21d2d6b",
   "lastOpenFiles": [
+    "Idea on AI/AI Idea for Foreign Ministery.md",
+    "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
     "view-only” video from Google drive..md",
     "Blog/My blog link.md",
     "ML/OCR/Installation.md",
-=======
-  "active": "6aba61de0cdd5b4d",
-  "lastOpenFiles": [
-    "Pasted image 20230320175749.png",
-    "Youtube/Crisis Chronicles/Ektu Sohoj kore boli.md",
-    "Youtube/Untitled.md",
-    "Data science project/Study material/Date and Time.md",
-    "Pasted image 20230320101048.png",
-    "Youtube/Channel name.md",
-    "Metal Corrosion/SST.md",
-    "Data science project/Project/Cyclistic,.md",
-    "Data science project/Data course/indroductory/Structure.md",
-    "Data science project/Data course/indroductory/Week 2.md",
-    "Data science project/Data course/indroductory/Week 1.md",
-    "Data science project/Project/Project list.md",
-    "Data science project/Study material/Weibull distribution.md",
-    "Data science project/Study material/Study links.md",
-    "Data science project/Study material/Pareto analysis.md",
->>>>>>> 1601a307bb6a8f8168e5ca1eefd6b46db0a19d19
     "Story book/The Time Travelers - Adventures in Andalusia.md"
   ]
 }
