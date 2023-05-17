@@ -165,14 +165,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data science project/Study material/Date and Time.md",
+                "file": "Metal Corrosion/Reason behind corrosion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b6075fff26da017",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "8a0096bea2e8805b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube/Crisis Chronicles/ERDOAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -217,6 +239,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c3067fe9f6cd5663",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -238,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data science project/Study material/Date and Time.md",
+                "file": "Youtube/Crisis Chronicles/ERDOAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data science project/Study material/Date and Time.md",
+                "file": "Youtube/Crisis Chronicles/ERDOAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data science project/Study material/Date and Time.md"
+                "file": "Youtube/Crisis Chronicles/ERDOAN.md"
               }
             }
           }
@@ -299,15 +329,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aba61de0cdd5b4d",
+  "active": "8a0096bea2e8805b",
   "lastOpenFiles": [
+    "Youtube/Crisis Chronicles/ERDOAN.md",
+    "Metal Corrosion/SST.md",
+    "Research/Writing.md",
+    "Untitled.md",
+    "Blog/Public policy.md",
+    "Data science project/Study material/Date and Time.md",
     "Pasted image 20230320175749.png",
     "Youtube/Crisis Chronicles/Ektu Sohoj kore boli.md",
     "Youtube/Untitled.md",
-    "Data science project/Study material/Date and Time.md",
     "Pasted image 20230320101048.png",
     "Youtube/Channel name.md",
-    "Metal Corrosion/SST.md",
     "Data science project/Project/Cyclistic,.md",
     "Data science project/Data course/indroductory/Structure.md",
     "Data science project/Data course/indroductory/Week 2.md",

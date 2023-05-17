@@ -9,3 +9,4 @@ To prevent gas corrosion on galvanized steel in Bangladesh, it is important to s
 It is also important to take steps to reduce exposure to these corrosive gases by using air filtration systems and other measures to reduce the concentration of these gases in the air. Additionally, the use of sacrificial anodes or cathodic protection systems can be used to prevent corrosion by preventing the zinc coating from being corroded.
 
 -----------------
+
