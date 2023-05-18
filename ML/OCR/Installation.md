@@ -46,6 +46,15 @@ pytesseract.pytesseract.tesseract_cmd = (r'  ')
 
 7. [Errno 13] Permission denied: '/opt/homebrew/Cellar/tesseract/5.3.0_1/share/tessdata/'
  to find the executable link run in terminal
+
+setup
+```python
+
+#esseract path
+
+pytesseract.pytesseract.tesseract_cmd = (r'/opt/homebrew/bin/tesseract')
+```
+
  
   '/opt/homebrew/bin/tesseract'
 
