@@ -61,14 +61,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
+                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery---.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca6ae6f2418515d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/OCR/Installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5dc2caaa7c5fa5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery---.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92767b3b15be1a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Virtual environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d9b52b22b74d60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Virtual environment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -113,6 +161,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2e9fca7b93f1f548",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -134,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
+                "file": "ML/Virtual environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
+                "file": "ML/Virtual environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md"
+                "file": "ML/Virtual environment.md"
               }
             }
           }
@@ -195,13 +251,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3231e5a21d2d6b",
+  "active": "1d9b52b22b74d60b",
   "lastOpenFiles": [
-    "Idea on AI/AI Idea for Foreign Ministery.md",
+    "ML/OCR/Installation.md",
     "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
+    "Idea on AI/Ideas of AI implementation on  Foreign Ministery---.md",
+    "Idea on AI/AI Idea for Foreign Ministery.md",
+    "Idea on AI/AI Idea for Foreign Ministery 1.md",
+    "ML/Virtual environment.md",
     "view-only” video from Google drive..md",
     "Blog/My blog link.md",
-    "ML/OCR/Installation.md",
     "Story book/The Time Travelers - Adventures in Andalusia.md"
   ]
 }
