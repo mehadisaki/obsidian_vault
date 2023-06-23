@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data science project/Study material/Multivarient Time series.md",
+                "file": "ChatGPT-ans/Fiver Gig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dac78c315bf2a150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data science project/Study material/Multivarient Time series.md",
+                "file": "ML/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data science project/Study material/Multivarient Time series.md",
+                "file": "ML/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data science project/Study material/Multivarient Time series.md"
+                "file": "ML/Notes.md"
               }
             }
           }
@@ -154,10 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20808b59f671dc3a",
+  "active": "dac78c315bf2a150",
   "lastOpenFiles": [
-    "Data science project/Study material/Date and Time.md",
+    "ML/Notes.md",
+    "Research/Writing.md",
+    "ChatGPT-ans/Fiver Gig.md",
     "Data science project/Study material/Multivarient Time series.md",
+    "Data science project/Study material/Date and Time.md",
     "Data science project/Data course/DS in Manufacturing industry/Course with project/DS in Manufacturing industry Outline with project.md",
     "Data science project/Data course/DS in Manufacturing industry/Course with project/Week 2.md",
     "view-only” video from Google drive..md",
@@ -185,9 +201,6 @@
     "Data science project/Data course/DS in Manufacturing industry",
     "Youtube/Crisis Chronicles/ERDOAN.md",
     "Blog/Public policy.md",
-    "Youtube/Crisis Chronicles/intro to Public policy.md",
-    "Data science project/Study material/Weibull distribution.md",
-    "Data science project/Project/Project list.md",
     "Untitled.canvas",
     "Pasted image 20230320175749.png",
     "Pasted image 20230320101048.png"
