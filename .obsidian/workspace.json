@@ -1,30 +1,31 @@
 {
   "main": {
-    "id": "7e84a5a9f26440c4",
+    "id": "bc2d809466c7977b",
     "type": "split",
     "children": [
       {
-        "id": "97a5e2b7cda01ab2",
+        "id": "7ab35fadbf78ad15",
         "type": "tabs",
         "children": [
           {
-            "id": "02730a945bf0b9f3",
+            "id": "20808b59f671dc3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/OCR/Installation.md",
+                "file": "ChatGPT-ans/Fiver Gig.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d2d4ba6be47cd6f6",
+            "id": "dac78c315bf2a150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Blog/My blog link.md",
                 "mode": "source",
                 "source": false
@@ -122,27 +123,34 @@
               "type": "markdown",
               "state": {
                 "file": "ML/Virtual environment.md",
+=======
+                "file": "ML/Notes.md",
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 9
+=======
+        "currentTab": 1
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9f14545ff8cc0a1d",
+    "id": "4f8f526c9c6f98a2",
     "type": "split",
     "children": [
       {
-        "id": "fd843911d1512fb8",
+        "id": "34494181bc857d52",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3231e5a21d2d6b",
+            "id": "fa36ddeaab8be6af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -152,7 +160,7 @@
             }
           },
           {
-            "id": "d7fb736737a2d626",
+            "id": "38aa9c72e45ca6ae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -167,7 +175,7 @@
             }
           },
           {
-            "id": "555cf1e80ddfdca3",
+            "id": "e8f7fc28a044a4a3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -175,7 +183,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "2e9fca7b93f1f548",
+=======
+            "id": "c3067fe9f6cd5663",
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -189,20 +201,24 @@
     "width": 300
   },
   "right": {
-    "id": "7fa9ec3948275004",
+    "id": "c2602c51f8db6274",
     "type": "split",
     "children": [
       {
-        "id": "f93cd3e932474f56",
+        "id": "7b6be305ecc11d63",
         "type": "tabs",
         "children": [
           {
-            "id": "974184adc7c366eb",
+            "id": "6b88b2b90fe6c72c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Virtual environment.md",
+=======
+                "file": "ML/Notes.md",
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,19 +230,23 @@
             }
           },
           {
-            "id": "13fa80a0b4e8a750",
+            "id": "240b7533580985f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Virtual environment.md",
+=======
+                "file": "ML/Notes.md",
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "47fe1341d755a050",
+            "id": "6110158dc5ffd5c8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -237,12 +257,16 @@
             }
           },
           {
-            "id": "349c8a2b57f2966f",
+            "id": "213a370dba0ce970",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Virtual environment.md"
+=======
+                "file": "ML/Notes.md"
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
               }
             }
           }
@@ -263,6 +287,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "4f76db9b10faebf3",
   "lastOpenFiles": [
     "ML/OCR/Installation.md",
@@ -271,8 +296,48 @@
     "Idea on AI/AI Idea for Foreign Ministery.md",
     "Idea on AI/AI Idea for Foreign Ministery 1.md",
     "ML/Virtual environment.md",
+=======
+  "active": "dac78c315bf2a150",
+  "lastOpenFiles": [
+    "ML/Notes.md",
+    "Research/Writing.md",
+    "ChatGPT-ans/Fiver Gig.md",
+    "Data science project/Study material/Multivarient Time series.md",
+    "Data science project/Study material/Date and Time.md",
+    "Data science project/Data course/DS in Manufacturing industry/Course with project/DS in Manufacturing industry Outline with project.md",
+    "Data science project/Data course/DS in Manufacturing industry/Course with project/Week 2.md",
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
     "view-only” video from Google drive..md",
+    "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
+    "Idea on AI/AI Idea for Foreign Ministery.md",
+    "Idea on AI",
     "Blog/My blog link.md",
+<<<<<<< HEAD
     "Story book/The Time Travelers - Adventures in Andalusia.md"
+=======
+    "Data science project/Data course/DS in Manufacturing industry/Course with project/Week 1.md",
+    "Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md",
+    "Data science project/Data course/Data literacy/introductory to Data literacy/Week 1.md",
+    "Data science project/Data course/DS in Manufacturing industry/Outline - without project.md",
+    "Data science project/Data course/Data Course Idea.md",
+    "Data science project/Data course/Data literacy/introductory to Data literacy/Week 2.md",
+    "DS in Manufacturing industry.md",
+    "Data literacy.md",
+    "Data science project/Data course/Data literacy",
+    "Life plan.canvas",
+    "Islamization of knowledge.md",
+    "Passive income.md",
+    "2023-05-18.md",
+    "Untitled 1.canvas",
+    "Data science project/Study material/Study links.md",
+    "Study Abroad/Study Plan.md",
+    "Data science project/Data course/DS in Manufacturing industry/Course with project",
+    "Data science project/Data course/DS in Manufacturing industry",
+    "Youtube/Crisis Chronicles/ERDOAN.md",
+    "Blog/Public policy.md",
+    "Untitled.canvas",
+    "Pasted image 20230320175749.png",
+    "Pasted image 20230320101048.png"
+>>>>>>> fc8841309058c75c3726c1c065eda6aa90713d8f
   ]
 }

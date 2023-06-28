@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"bbe37297cfed4b2a","x":-432,"y":-479,"width":400,"height":339,"type":"file","file":"Study Abroad/Study plan.md"}
+		{"id":"dc7800bafcc85b01","x":611,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md"},
+		{"id":"c63f75388be50409","x":1056,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Course with project/Week 1.md"},
+		{"id":"5ece40930891cb81","x":1501,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Week 1.md"},
+		{"id":"a8e433b1cc45fcfc","x":1946,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Course with project/Week 2.md"},
+		{"id":"6fafa6a613714ebc","x":2391,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Week 2.md"},
+		{"type":"file","file":"Study Abroad/Study Plan.md","id":"bbe37297cfed4b2a","x":-980,"y":-760,"width":400,"height":339}
 	],
 	"edges":[]
 }

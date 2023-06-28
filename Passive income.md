@@ -1,1 +1,1 @@
-1.  making acourse on data literacy 
+1.  making a course on data literacy 

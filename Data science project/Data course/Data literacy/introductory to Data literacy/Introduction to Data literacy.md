@@ -41,3 +41,11 @@ Week 6: Data Ethics and Privacy
 -   Future of Data Ethics and Privacy
 
 This outline covers the basics of data literacy, including data science, data collection, cleaning, analysis, visualization, machine learning, data communication, and ethics. The final week of the course provides an introduction to the ethics and privacy aspects of data literacy, which are becoming increasingly important in today's data-driven world. The portfolio project in Week 5 provides an opportunity for learners to apply their learning to a practical project.
+
+Data literacy  
+
+introductory to Data literacy
+
+l
+
+Introduction to Data literacy 
