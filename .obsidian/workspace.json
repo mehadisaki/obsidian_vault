@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f76db9b10faebf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Virtual environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -251,7 +263,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d9b52b22b74d60b",
+  "active": "4f76db9b10faebf3",
   "lastOpenFiles": [
     "ML/OCR/Installation.md",
     "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",

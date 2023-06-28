@@ -31,3 +31,8 @@ to install any Python package
 conda install <package_name>
 ```
 
+to find the all environment
+```bash
+
+conda info --envs
+```
