@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "bc2d809466c7977b",
+    "id": "4067bc44b8fbc3ba",
     "type": "split",
     "children": [
       {
-        "id": "7ab35fadbf78ad15",
+        "id": "f63bbfeb6e001067",
         "type": "tabs",
         "children": [
           {
-            "id": "20808b59f671dc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT-ans/Fiver Gig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac78c315bf2a150",
+            "id": "05c0579f0f51f30c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4f8f526c9c6f98a2",
+    "id": "5b04ee6436b2c9c7",
     "type": "split",
     "children": [
       {
-        "id": "34494181bc857d52",
+        "id": "450ceaea138b7b36",
         "type": "tabs",
         "children": [
           {
-            "id": "fa36ddeaab8be6af",
+            "id": "7df6d79374c08d47",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "38aa9c72e45ca6ae",
+            "id": "8321c6c2196b7a57",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,15 +58,7 @@
             }
           },
           {
-            "id": "e8f7fc28a044a4a3",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c3067fe9f6cd5663",
+            "id": "154ceab346c3d0ec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "c2602c51f8db6274",
+    "id": "0b11f616811f2709",
     "type": "split",
     "children": [
       {
-        "id": "7b6be305ecc11d63",
+        "id": "e42d12cf2990f2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "6b88b2b90fe6c72c",
+            "id": "1dd1e7aae433c017",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,7 +97,7 @@
             }
           },
           {
-            "id": "240b7533580985f0",
+            "id": "55d637b7a2ffc637",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +109,7 @@
             }
           },
           {
-            "id": "6110158dc5ffd5c8",
+            "id": "3b814fa68459ada5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +120,7 @@
             }
           },
           {
-            "id": "213a370dba0ce970",
+            "id": "321b5ffa264df600",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -167,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac78c315bf2a150",
+  "active": "05c0579f0f51f30c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Youtube/Crisis Chronicles/intro to Public policy.md",
     "Youtube/Crisis Chronicles/ERDOAN.md",
     "Youtube/Crisis Chronicles/Ektu Sohoj kore boli.md",
@@ -204,5 +184,8 @@
     "Untitled.canvas",
     "Pasted image 20230320175749.png",
     "Pasted image 20230320101048.png"
+=======
+    "Pasted image 20230701141842.png"
+>>>>>>> 5ae2c0901c3df11e4f433c8fd540e7900dab3e65
   ]
 }
