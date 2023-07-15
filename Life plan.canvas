@@ -1,11 +1,10 @@
 {
 	"nodes":[
-		{"id":"dc7800bafcc85b01","x":611,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md"},
-		{"id":"c63f75388be50409","x":1056,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Course with project/Week 1.md"},
-		{"id":"5ece40930891cb81","x":1501,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Week 1.md"},
-		{"id":"a8e433b1cc45fcfc","x":1946,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Course with project/Week 2.md"},
-		{"id":"6fafa6a613714ebc","x":2391,"y":-672,"width":400,"height":400,"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Week 2.md"},
-		{"type":"file","file":"Study Abroad/Study Plan.md","id":"bbe37297cfed4b2a","x":-980,"y":-760,"width":400,"height":339}
+		{"id":"f0d1902aa4bf88f3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Spiritual Goals"},
+		{"id":"d1803936ec4a2bdf","x":-125,"y":60,"width":250,"height":50,"type":"text","text":"Personal Goals"},
+		{"type":"text","text":"Community Goals","id":"c642d77f976b32ee","x":-125,"y":160,"width":250,"height":50},
+		{"type":"text","text":"Financial Goals","id":"1be00b512978c539","x":-125,"y":260,"width":250,"height":50},
+		{"id":"8c171a20a970f2ed","x":220,"y":260,"width":250,"height":60,"type":"text","text":"Freedom"}
 	],
 	"edges":[]
 }

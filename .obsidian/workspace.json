@@ -1,21 +1,24 @@
 {
   "main": {
-    "id": "4067bc44b8fbc3ba",
+    "id": "d6f05420ddf44e8f",
     "type": "split",
     "children": [
       {
-        "id": "f63bbfeb6e001067",
+        "id": "60012b01f25a673c",
         "type": "tabs",
         "children": [
           {
-            "id": "05c0579f0f51f30c",
+            "id": "5c077741142ab790",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Youtube/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Life Plan.canvas",
+                "viewState": {
+                  "x": 137.87236061195196,
+                  "y": 512.4126031928386,
+                  "zoom": 1
+                }
               }
             }
           }
@@ -25,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5b04ee6436b2c9c7",
+    "id": "0f1a3e129f00426a",
     "type": "split",
     "children": [
       {
-        "id": "450ceaea138b7b36",
+        "id": "0b05945c558c6299",
         "type": "tabs",
         "children": [
           {
-            "id": "7df6d79374c08d47",
+            "id": "07b2a598db15efe6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +46,7 @@
             }
           },
           {
-            "id": "8321c6c2196b7a57",
+            "id": "94ad60f81a008504",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +61,7 @@
             }
           },
           {
-            "id": "154ceab346c3d0ec",
+            "id": "c9af492e8d46c2f4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +75,20 @@
     "width": 300
   },
   "right": {
-    "id": "0b11f616811f2709",
+    "id": "e5fdd4432fa13d31",
     "type": "split",
     "children": [
       {
-        "id": "e42d12cf2990f2d9",
+        "id": "153843383d6b84de",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd1e7aae433c017",
+            "id": "044f3c5d518b4ecd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Youtube/Untitled.md",
+                "file": "Life Plan.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +100,19 @@
             }
           },
           {
-            "id": "55d637b7a2ffc637",
+            "id": "cf3e0e60143ff3f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Youtube/Untitled.md",
+                "file": "Life Plan.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3b814fa68459ada5",
+            "id": "40cc85be38d298a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +123,12 @@
             }
           },
           {
-            "id": "321b5ffa264df600",
+            "id": "0fc5ac1b534a3688",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Youtube/Untitled.md"
+                "file": "Life Plan.canvas"
               }
             }
           }
@@ -146,46 +149,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05c0579f0f51f30c",
+  "active": "5c077741142ab790",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Youtube/Crisis Chronicles/intro to Public policy.md",
-    "Youtube/Crisis Chronicles/ERDOAN.md",
-    "Youtube/Crisis Chronicles/Ektu Sohoj kore boli.md",
-    "Blog/Public policy.md",
-    "Blog/My blog link.md",
-    "Research/Writing.md",
-    "ML/Notes.md",
-    "ChatGPT-ans/Fiver Gig.md",
-    "Data science project/Study material/Multivarient Time series.md",
-    "Data science project/Study material/Date and Time.md",
-    "Data science project/Data course/DS in Manufacturing industry/Course with project/DS in Manufacturing industry Outline with project.md",
-    "Data science project/Data course/DS in Manufacturing industry/Course with project/Week 2.md",
-    "view-only” video from Google drive..md",
-    "Idea on AI/Ideas of AI implementation on  Foreign Ministery.md",
-    "Idea on AI/AI Idea for Foreign Ministery.md",
-    "Idea on AI",
-    "Data science project/Data course/DS in Manufacturing industry/Course with project/Week 1.md",
-    "Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md",
-    "Data science project/Data course/Data literacy/introductory to Data literacy/Week 1.md",
-    "Data science project/Data course/DS in Manufacturing industry/Outline - without project.md",
-    "Data science project/Data course/Data Course Idea.md",
-    "Data science project/Data course/Data literacy/introductory to Data literacy/Week 2.md",
-    "DS in Manufacturing industry.md",
-    "Data literacy.md",
-    "Data science project/Data course/Data literacy",
-    "Life plan.canvas",
-    "Islamization of knowledge.md",
-    "Passive income.md",
-    "2023-05-18.md",
-    "Untitled 1.canvas",
-    "Data science project/Data course/DS in Manufacturing industry/Course with project",
-    "Data science project/Data course/DS in Manufacturing industry",
     "Untitled.canvas",
-    "Pasted image 20230320175749.png",
-    "Pasted image 20230320101048.png"
-=======
-    "Pasted image 20230701141842.png"
->>>>>>> 5ae2c0901c3df11e4f433c8fd540e7900dab3e65
+    "Introduction to Data literacy.canvas",
+    "Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md",
+    "Data science in Manufacturing.canvas",
+    "Youtube/Untitled.md",
+    "Youtube/Channel name.md",
+    "Youtube/Crisis Chronicles/ERDOAN.md",
+    "2023-07-15.md",
+    "Untitled 3.canvas",
+    "Life Plan.canvas"
   ]
 }

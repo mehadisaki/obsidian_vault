@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Course with project/Week 1.md","id":"04736896e68364d2","x":1424,"y":-211,"width":400,"height":400},
+		{"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Week 1.md","id":"27f27b35a3aa8126","x":1869,"y":-211,"width":400,"height":400},
+		{"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Course with project/Week 2.md","id":"34d8fe7e1e3e125f","x":2314,"y":-211,"width":400,"height":400},
+		{"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Week 2.md","id":"38d3af17083b50d6","x":2759,"y":-211,"width":400,"height":400},
+		{"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Course with project/DS in Manufacturing industry Outline with project.md","id":"6425727e96a91950","x":89,"y":-840,"width":400,"height":400},
+		{"type":"file","file":"Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md","id":"05ae6bb9cc2e5f70","x":1024,"y":-760,"width":400,"height":400},
+		{"type":"file","file":"Data science project/Data course/DS in Manufacturing industry/Outline - without project.md","id":"4fb935a9827cf3bd","x":89,"y":520,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"6a01a72fc870113b","fromNode":"6425727e96a91950","fromSide":"right","toNode":"05ae6bb9cc2e5f70","toSide":"left"},
+		{"id":"daff7af4fab3923c","fromNode":"05ae6bb9cc2e5f70","fromSide":"right","toNode":"04736896e68364d2","toSide":"top"},
+		{"id":"65e93fe3e105cd40","fromNode":"04736896e68364d2","fromSide":"top","toNode":"27f27b35a3aa8126","toSide":"top"},
+		{"id":"2b1b153deef0947e","fromNode":"27f27b35a3aa8126","fromSide":"top","toNode":"34d8fe7e1e3e125f","toSide":"top"},
+		{"id":"841d91dd2b708082","fromNode":"34d8fe7e1e3e125f","fromSide":"top","toNode":"38d3af17083b50d6","toSide":"top"}
+	]
+}
