@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"f0d1902aa4bf88f3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Spiritual Goals"},
-		{"id":"d1803936ec4a2bdf","x":-125,"y":60,"width":250,"height":50,"type":"text","text":"Personal Goals"},
+		{"type":"text","text":"Spiritual Goals","id":"f0d1902aa4bf88f3","x":-125,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"Personal Goals","id":"d1803936ec4a2bdf","x":-125,"y":60,"width":250,"height":50},
 		{"type":"text","text":"Community Goals","id":"c642d77f976b32ee","x":-125,"y":160,"width":250,"height":50},
 		{"type":"text","text":"Financial Goals","id":"1be00b512978c539","x":-125,"y":260,"width":250,"height":50},
-		{"id":"8c171a20a970f2ed","x":220,"y":260,"width":250,"height":60,"type":"text","text":"Freedom"}
+		{"type":"text","text":"Freedom","id":"8c171a20a970f2ed","x":1160,"y":280,"width":250,"height":60}
 	],
 	"edges":[]
 }
