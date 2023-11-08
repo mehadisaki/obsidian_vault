@@ -11,14 +11,11 @@
             "id": "5c077741142ab790",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Life Plan.canvas",
-                "viewState": {
-                  "x": 556,
-                  "y": 331,
-                  "zoom": 0
-                }
+                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life Plan.canvas",
+                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life Plan.canvas",
+                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life Plan.canvas"
+                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md"
               }
             }
           }
@@ -151,13 +148,14 @@
   },
   "active": "5c077741142ab790",
   "lastOpenFiles": [
+    "Life Plan.canvas",
+    "ML/Unsupervised Sentiment Analysis Algorithm.md",
     "Youtube/Untitled.md",
     "Study Abroad/SOP/SOP-2 University of Cargary.md",
     "Study Abroad/SOP/SOP- University of Cargary old.md",
     "Study Abroad/SOP/SOP from ChatGPT.md",
     "Study Abroad/SOP/Untitled.md",
     "Story book/The Time Travelers - Adventures in Andalusia.md",
-    "Life Plan.canvas",
     "Untitled.canvas",
     "Introduction to Data literacy.canvas",
     "Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md",
