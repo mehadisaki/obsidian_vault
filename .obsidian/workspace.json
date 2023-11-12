@@ -1,39 +1,68 @@
 {
   "main": {
-    "id": "d6f05420ddf44e8f",
+    "id": "4067bc44b8fbc3ba",
     "type": "split",
     "children": [
       {
-        "id": "60012b01f25a673c",
+        "id": "f63bbfeb6e001067",
         "type": "tabs",
         "children": [
           {
-            "id": "5c077741142ab790",
+            "id": "05c0579f0f51f30c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
+=======
+                "file": "ML/Virtual environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c719b068055663aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/PDF - Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd1c05f3b5fd516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Most common package in python.md",
+>>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0f1a3e129f00426a",
+    "id": "5b04ee6436b2c9c7",
     "type": "split",
     "children": [
       {
-        "id": "0b05945c558c6299",
+        "id": "450ceaea138b7b36",
         "type": "tabs",
         "children": [
           {
-            "id": "07b2a598db15efe6",
+            "id": "7df6d79374c08d47",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +72,7 @@
             }
           },
           {
-            "id": "94ad60f81a008504",
+            "id": "8321c6c2196b7a57",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +87,7 @@
             }
           },
           {
-            "id": "c9af492e8d46c2f4",
+            "id": "154ceab346c3d0ec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +101,24 @@
     "width": 300
   },
   "right": {
-    "id": "e5fdd4432fa13d31",
+    "id": "0b11f616811f2709",
     "type": "split",
     "children": [
       {
-        "id": "153843383d6b84de",
+        "id": "e42d12cf2990f2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "044f3c5d518b4ecd",
+            "id": "1dd1e7aae433c017",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
+=======
+                "file": "ML/Most common package in python.md",
+>>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +130,23 @@
             }
           },
           {
-            "id": "cf3e0e60143ff3f1",
+            "id": "55d637b7a2ffc637",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
+=======
+                "file": "ML/Most common package in python.md",
+>>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "40cc85be38d298a1",
+            "id": "3b814fa68459ada5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +157,16 @@
             }
           },
           {
-            "id": "0fc5ac1b534a3688",
+            "id": "321b5ffa264df600",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Unsupervised Sentiment Analysis Algorithm.md"
+=======
+                "file": "ML/Most common package in python.md"
+>>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
               }
             }
           }
@@ -146,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c077741142ab790",
+  "active": "fcd1c05f3b5fd516",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Life Plan.canvas",
     "ML/Unsupervised Sentiment Analysis Algorithm.md",
     "Youtube/Untitled.md",
@@ -157,12 +199,17 @@
     "Study Abroad/SOP/Untitled.md",
     "Story book/The Time Travelers - Adventures in Andalusia.md",
     "Untitled.canvas",
+=======
+    "Untitled 3.canvas",
+>>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
     "Introduction to Data literacy.canvas",
-    "Data science project/Data course/Data literacy/introductory to Data literacy/Introduction to Data literacy.md",
     "Data science in Manufacturing.canvas",
-    "Youtube/Channel name.md",
-    "Youtube/Crisis Chronicles/ERDOAN.md",
-    "2023-07-15.md",
-    "Untitled 3.canvas"
+    "ML/Virtual environment.md",
+    "ML/Most common package in python.md",
+    "Data science project/Data science project outline.md",
+    "ML/PDF - Python.md",
+    "Research/Writing.md",
+    "ML/Notes.md",
+    "Pasted image 20230701141842.png"
   ]
 }
