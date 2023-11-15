@@ -13,9 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
-=======
                 "file": "ML/Virtual environment.md",
                 "mode": "source",
                 "source": false
@@ -40,10 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "ML/Most common package in python.md",
->>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
-=======
                 "file": "ML/Virtual environment.md",
                 "mode": "source",
                 "source": false
@@ -57,7 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "ML/NLP/Lemmatization.md",
->>>>>>> 42a34eed732e7e580c9703b6cca2fb599d64e79f
                 "mode": "source",
                 "source": false
               }
@@ -140,15 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
-=======
-                "file": "ML/Most common package in python.md",
->>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
-=======
                 "file": "ML/NLP/Lemmatization.md",
->>>>>>> 42a34eed732e7e580c9703b6cca2fb599d64e79f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,15 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md",
-=======
-                "file": "ML/Most common package in python.md",
->>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
-=======
                 "file": "ML/NLP/Lemmatization.md",
->>>>>>> 42a34eed732e7e580c9703b6cca2fb599d64e79f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,13 +172,6 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ML/Unsupervised Sentiment Analysis Algorithm.md"
-=======
-                "file": "ML/Most common package in python.md"
->>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
-=======
                 "file": "ML/NLP/Lemmatization.md"
               }
             }
@@ -214,7 +183,6 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
->>>>>>> 42a34eed732e7e580c9703b6cca2fb599d64e79f
               }
             }
           }
@@ -237,19 +205,7 @@
   },
   "active": "803d3912c008a71d",
   "lastOpenFiles": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "Life Plan.canvas",
     "ML/Unsupervised Sentiment Analysis Algorithm.md",
-    "Youtube/Untitled.md",
-    "Study Abroad/SOP/SOP-2 University of Cargary.md",
-    "Study Abroad/SOP/SOP- University of Cargary old.md",
-    "Study Abroad/SOP/SOP from ChatGPT.md",
-    "Study Abroad/SOP/Untitled.md",
-    "Story book/The Time Travelers - Adventures in Andalusia.md",
-    "Untitled.canvas",
-=======
-=======
     "ML/NLP/Topics modeling.md",
     "ML/NLP/Lemmatization.md",
     "ML/NLP/Sentiment Analysis.md",
@@ -257,9 +213,7 @@
     "ML/NLP",
     "Research/Writing.md",
     "ML/Most common package in python.md",
->>>>>>> 42a34eed732e7e580c9703b6cca2fb599d64e79f
     "Untitled 3.canvas",
->>>>>>> a1fd914279d68daadbe1e31c4c9be555b7e0f917
     "Introduction to Data literacy.canvas",
     "Data science in Manufacturing.canvas",
     "ML/Virtual environment.md",
