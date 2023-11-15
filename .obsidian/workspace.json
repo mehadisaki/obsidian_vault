@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "803d3912c008a71d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7abf6cf2602b5e5",
+  "active": "803d3912c008a71d",
   "lastOpenFiles": [
     "ML/NLP/Topics modeling.md",
     "ML/NLP/Lemmatization.md",
