@@ -48,3 +48,29 @@ These algorithms are used to discover underlying topics within a corpus of text 
 
 1. LiLT model for Information extraction from Image and PDF documents
 2. 
+
+
+
+
+**What is topic coherence?**
+
+Topic Coherence measures score a single topic by measuring the degree of semantic similarity between high scoring words in the topic. These measurements help distinguish between topics that are semantically interpretable topics and topics that are artifacts of statistical inference. But …
+
+**What is coherence?**
+
+A set of statements or facts is said to be coherent, if they support each other. Thus, a coherent fact set can be interpreted in a context that covers all or most of the facts. An example of a coherent fact set is “the game is a team sport”, “the game is played with a ball”, “the game demands great physical efforts”
+
+
+
+# Model Implementation
+
+The complete code is available as a [Jupyter Notebook on GitHub](https://github.com/kapadias/medium-articles/blob/master/natural-language-processing/topic-modeling/Evaluate%20Topic%20Models.ipynb)
+
+1. Loading data
+2. Data Cleaning
+3. Phrase Modeling: Bi-grams and Tri-grams
+4. Data transformation: Corpus and Dictionary
+5. Base Model
+6. Hyperparameter Tuning
+7. Final Model
+8. Visualize Results

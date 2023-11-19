@@ -59,9 +59,11 @@
             "id": "803d3912c008a71d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "ML/NLP/Topics modeling.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/NLP/Lemmatization.md",
+                "file": "ML/NLP/Topics modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/NLP/Lemmatization.md",
+                "file": "ML/NLP/Topics modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/NLP/Lemmatization.md"
+                "file": "ML/NLP/Topics modeling.md"
               }
             }
           },
@@ -205,7 +207,7 @@
   },
   "active": "803d3912c008a71d",
   "lastOpenFiles": [
-    "ML/Unsupervised Sentiment Analysis Algorithm.md",
+    "ML/NLP/Unsupervised Sentiment Analysis Algorithm.md",
     "ML/NLP/Topics modeling.md",
     "ML/NLP/Lemmatization.md",
     "ML/NLP/Sentiment Analysis.md",
