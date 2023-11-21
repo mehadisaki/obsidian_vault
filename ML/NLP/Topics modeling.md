@@ -48,3 +48,15 @@ These algorithms are used to discover underlying topics within a corpus of text 
 
 1. LiLT model for Information extraction from Image and PDF documents
 2. 
+
+
+
+
+# lda2vec
+
+[https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843]
+
+
+Inspired by Latent Dirichlet Allocation (LDA), the word2vec model is expanded to simultaneously learn word, document and topic vectors.
+
+Lda2vec is obtained by modifying the skip-gram word2vec variant. In the original skip-gram method, the model is trained to predict context words based on a pivot word. In lda2vec, the pivot word vector and a document vector are added to obtain a context vector. This context vector is then used to predict context words.
