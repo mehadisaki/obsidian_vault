@@ -1,48 +1,39 @@
 {
   "main": {
-    "id": "34fb369e6c50a203",
+    "id": "24d9ea5b61edead0",
     "type": "split",
     "children": [
       {
-        "id": "fe39c4673e2d5473",
+        "id": "5529d76a9908d127",
         "type": "tabs",
         "children": [
           {
-            "id": "3798565dc0cf9130",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "89bc43593d292529",
+            "id": "406b61840ed2b93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/NLP/Topics modeling.md",
+                "file": "ML/NLP/Sentiment Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d502c39398d95589",
+    "id": "947b53c7202cfd0c",
     "type": "split",
     "children": [
       {
-        "id": "fd15f7137eda2b5e",
+        "id": "a2b80ead28af338d",
         "type": "tabs",
         "children": [
           {
-            "id": "bd752d680059191f",
+            "id": "1625fc20edd712dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +43,7 @@
             }
           },
           {
-            "id": "ef2a7c746f7b87f9",
+            "id": "6a4d6e3a12f6f6fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +58,7 @@
             }
           },
           {
-            "id": "0b253c319a008ea2",
+            "id": "96dca164969f09a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "083c6114cc59d4af",
+    "id": "a5d168b5f713326d",
     "type": "split",
     "children": [
       {
-        "id": "48687a1300c4896d",
+        "id": "8c6fc42c426e6276",
         "type": "tabs",
         "children": [
           {
-            "id": "85ceaebd67853123",
+            "id": "174aab9116ec5d62",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/NLP/Topics modeling.md",
+                "file": "ML/NLP/Sentiment Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +97,19 @@
             }
           },
           {
-            "id": "61657116872dad12",
+            "id": "dc0228223cf27c63",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/NLP/Topics modeling.md",
+                "file": "ML/NLP/Sentiment Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f242f7c4ede77b7d",
+            "id": "5d7af3d7ce11225e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,7 +120,7 @@
             }
           },
           {
-            "id": "7a859114444ed94b",
+            "id": "c887645ff153a5cf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -139,12 +130,12 @@
             }
           },
           {
-            "id": "90cf094d8d80f078",
+            "id": "e7391398c7b7196b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/NLP/Topics modeling.md"
+                "file": "ML/NLP/Sentiment Analysis.md"
               }
             }
           }
@@ -165,10 +156,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89bc43593d292529",
-  "lastOpenFiles": [
-    "ML/NLP/Sentiment Analysis.md",
-    "ML/NLP/Topics modeling.md",
-    "ML/Unsupervised Sentiment Analysis Algorithm.md"
-  ]
+  "active": "406b61840ed2b93b",
+  "lastOpenFiles": []
 }
