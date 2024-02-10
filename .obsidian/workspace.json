@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05b39d38578093d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/NLP application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online batting.md",
+                "file": "Research/NLP application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online batting.md",
+                "file": "Research/NLP application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online batting.md"
+                "file": "Research/NLP application.md"
               }
             }
           }
@@ -169,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a66a48fa1cedf95e",
+  "active": "05b39d38578093d7",
   "lastOpenFiles": [
+    "Pasted image 20240210172855.png",
+    "Research/Writing.md",
+    "Research/NLP application.md",
     "Story book/The Time Travelers - Adventures in Andalusia.md",
     "Online batting.md",
     "ML/NLP/Cleaning Text.md",
