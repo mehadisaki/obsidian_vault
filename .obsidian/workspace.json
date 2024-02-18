@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/NLP/Topics modeling.md",
+                "file": "Research/Work list.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/NLP/Topics modeling.md",
+                "file": "Research/Work list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/NLP/Topics modeling.md",
+                "file": "Research/Work list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/NLP/Topics modeling.md"
+                "file": "Research/Work list.md"
               }
             }
           },
@@ -184,7 +184,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -207,18 +209,20 @@
   },
   "active": "803d3912c008a71d",
   "lastOpenFiles": [
-    "ML/NLP/Unsupervised Sentiment Analysis Algorithm.md",
+    "Research/Writing.md",
+    "Research/Work list.md",
+    "Research/Paper writing.md",
+    "ML/Virtual environment.md",
     "ML/NLP/Topics modeling.md",
+    "ML/NLP/Unsupervised Sentiment Analysis Algorithm.md",
     "ML/NLP/Lemmatization.md",
     "ML/NLP/Sentiment Analysis.md",
     "Pasted image 20231107224742.png",
     "ML/NLP",
-    "Research/Writing.md",
     "ML/Most common package in python.md",
     "Untitled 3.canvas",
     "Introduction to Data literacy.canvas",
     "Data science in Manufacturing.canvas",
-    "ML/Virtual environment.md",
     "Data science project/Data science project outline.md",
     "ML/PDF - Python.md",
     "ML/Notes.md",
