@@ -133,8 +133,15 @@ Together, these scholars showed Max and Alex the way, And now, they know that sc
 
 ## Chapter 11: A Journey Through Time 
 
-where Max and Alex continue their journey through time, discovering the rich history and culture of Andalusia. With each step, they learn more about the brilliant minds that once called Cordova home, including the famous scholars and inventors who pushed the boundaries of science and technology. From the grand Alhambra Palace to the bustling bazaar and the renowned library, there's so much to explore and learn in this magical land. And as the boys venture deeper into the past, they realize that their journey is far from over, and that there's still so much more to discover about the wonders of Andalusia and showcase how Cordova was a peaceful society in its Golden Age.
+** where Max and Alex continue their journey through time, discovering the rich history and culture of Andalusia. With each step, they learn more about the brilliant minds that once called Cordova home, including the famous scholars and inventors who pushed the boundaries of science and technology. From the grand Alhambra Palace to the bustling bazaar and the renowned library, there's so much to explore and learn in this magical land. And as the boys venture deeper into the past, they realize that their journey is far from over, and that there's still so much more to discover about the wonders of Andalusia and showcase how Cordova was a peaceful society in its Golden Age.
 
+** Max and Alex journeyed on, through the pages of time, In Andalusia's embrace, where history did chime. Cordova's peaceful society, a gem from the past, A world of knowledge and wonder, destined to last.
+
+They strolled through the streets, where laughter was heard, In this city of peace, where every soul was stirred. The scholars, the thinkers, in harmony did play, Contributing to a society, where intellect held sway.
+
+Through gardens and markets, where colors ran wild, Max and Alex felt like explorers, as curious as a child. They learned of Cordova's wisdom, of science so bright, A beacon in the past, shining with intellectual light.
+
+As the boys continued their journey, a tale to unfold, Of a time when Cordova's story was written in gold. With every step, the echoes of the past they could feel, In this timeless adventure, where dreams became real.
 ## Chapter 12: A Journey Home
 
 Max and Alex's journey was coming to an end, With memories of Cordova to hold and to bend. They had seen palaces grand, a mosque with such might, A library full of books, a market full of light.

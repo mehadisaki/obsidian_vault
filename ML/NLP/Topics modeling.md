@@ -52,6 +52,16 @@ These algorithms are used to discover underlying topics within a corpus of text 
 
 
 
+<<<<<<< HEAD
+# lda2vec
+
+[https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843]
+
+
+Inspired by Latent Dirichlet Allocation (LDA), the word2vec model is expanded to simultaneously learn word, document and topic vectors.
+
+Lda2vec is obtained by modifying the skip-gram word2vec variant. In the original skip-gram method, the model is trained to predict context words based on a pivot word. In lda2vec, the pivot word vector and a document vector are added to obtain a context vector. This context vector is then used to predict context words.
+=======
 **What is topic coherence?**
 
 Topic Coherence measures score a single topic by measuring the degree of semantic similarity between high scoring words in the topic. These measurements help distinguish between topics that are semantically interpretable topics and topics that are artifacts of statistical inference. But …
@@ -74,3 +84,4 @@ The complete code is available as a [Jupyter Notebook on GitHub](https://github
 6. Hyperparameter Tuning
 7. Final Model
 8. Visualize Results
+>>>>>>> b77206e2e3135cc128777f848a77a69441a4b33a
