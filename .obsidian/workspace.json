@@ -11,13 +11,26 @@
             "id": "57466ba635617a3c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data analytics/Visualization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22b16c0ec331c540",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.8"
+                "currentVersion": "1.5.12"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data analytics/Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data analytics/Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data analytics/Visualization.md"
+              }
             }
           }
         ]
@@ -152,6 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57466ba635617a3c",
-  "lastOpenFiles": []
+  "active": "22b16c0ec331c540",
+  "lastOpenFiles": [
+    "Research/Writing.md",
+    "Data analytics/Visualization.md",
+    "Research/Work list.md",
+    "Research/Paper writing.md",
+    "Research/NLP application.md",
+    "ML/NLP/Topics modeling.md",
+    "ML/PDF - Python.md",
+    "ML/NLP/Cleaning Text.md"
+  ]
 }
