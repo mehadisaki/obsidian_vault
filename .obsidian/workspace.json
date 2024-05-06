@@ -42,9 +42,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57aaa24e936e0a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/NLP application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cff1ef149aef0e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Virtual environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4403ba510bc79d62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/NLP application.md",
+                "file": "ML/Virtual environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/NLP application.md",
+                "file": "ML/Virtual environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/NLP application.md"
+                "file": "ML/Virtual environment.md"
               }
             }
           }
@@ -183,14 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05b39d38578093d7",
+  "active": "4403ba510bc79d62",
   "lastOpenFiles": [
+    "ML/NLP/Sentiment Analysis.md",
+    "ML/NLP/Topics modeling.md",
+    "ML/Virtual environment.md",
+    "List of Dictator.md",
+    "Research/NLP application.md",
     "Pasted image 20240210172855.png",
     "Research/Writing.md",
-    "Research/NLP application.md",
     "Story book/The Time Travelers - Adventures in Andalusia.md",
     "Online batting.md",
-    "ML/NLP/Cleaning Text.md",
-    "ML/NLP/Sentiment Analysis.md"
+    "ML/NLP/Cleaning Text.md"
   ]
 }

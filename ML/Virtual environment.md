@@ -1,4 +1,4 @@
-for Conda environment
+for Conda environment {change the name new_env}
 ```bash
 conda create -n new_env python==3.9
 ```
