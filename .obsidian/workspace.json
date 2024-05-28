@@ -1,98 +1,39 @@
 {
   "main": {
-    "id": "24d9ea5b61edead0",
+    "id": "dd4e854726c75619",
     "type": "split",
     "children": [
       {
-        "id": "5529d76a9908d127",
+        "id": "767f73411153e3ab",
         "type": "tabs",
         "children": [
           {
-            "id": "406b61840ed2b93b",
+            "id": "0bcb26948f7ed6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story book/The Time Travelers - Adventures in Andalusia.md",
+                "file": "Blog/DS in manufacturing industry.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a66a48fa1cedf95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Online batting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05b39d38578093d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/NLP application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57aaa24e936e0a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/NLP application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cff1ef149aef0e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Virtual environment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4403ba510bc79d62",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "947b53c7202cfd0c",
+    "id": "ce7f195d5b1c5c70",
     "type": "split",
     "children": [
       {
-        "id": "a2b80ead28af338d",
+        "id": "a670be2bd4915b96",
         "type": "tabs",
         "children": [
           {
-            "id": "1625fc20edd712dd",
+            "id": "acfab2e3220809b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -102,12 +43,12 @@
             }
           },
           {
-            "id": "6a4d6e3a12f6f6fd",
+            "id": "a1c32fd99116eb64",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Use",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,34 +58,35 @@
             }
           },
           {
-            "id": "96dca164969f09a7",
+            "id": "38604a237ec8dbfe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "a5d168b5f713326d",
+    "id": "52383b5c39a38c3f",
     "type": "split",
     "children": [
       {
-        "id": "8c6fc42c426e6276",
+        "id": "1d76166b07fd9c3e",
         "type": "tabs",
         "children": [
           {
-            "id": "174aab9116ec5d62",
+            "id": "852acb2ea8773707",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Virtual environment.md",
+                "file": "Blog/DS in manufacturing industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,19 +98,19 @@
             }
           },
           {
-            "id": "dc0228223cf27c63",
+            "id": "44c2019ce03f638d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Virtual environment.md",
+                "file": "Blog/DS in manufacturing industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5d7af3d7ce11225e",
+            "id": "60da1b5b70532082",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,7 +121,7 @@
             }
           },
           {
-            "id": "c887645ff153a5cf",
+            "id": "bc2c0b309f797533",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -191,12 +133,12 @@
             }
           },
           {
-            "id": "e7391398c7b7196b",
+            "id": "83487e4f23235dec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Virtual environment.md"
+                "file": "Blog/DS in manufacturing industry.md"
               }
             }
           }
@@ -217,17 +159,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4403ba510bc79d62",
+  "active": "a1c32fd99116eb64",
   "lastOpenFiles": [
-    "ML/NLP/Sentiment Analysis.md",
-    "ML/NLP/Topics modeling.md",
-    "ML/Virtual environment.md",
-    "List of Dictator.md",
-    "Research/NLP application.md",
-    "Pasted image 20240210172855.png",
-    "Research/Writing.md",
-    "Story book/The Time Travelers - Adventures in Andalusia.md",
-    "Online batting.md",
-    "ML/NLP/Cleaning Text.md"
+    "Blog/DS in manufacturing industry.md"
   ]
 }

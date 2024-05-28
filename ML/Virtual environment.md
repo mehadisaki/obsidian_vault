@@ -7,6 +7,12 @@ to activate new or previous environment
 ```bash
 conda activate new_env
 ```
+to install python
+```shell
+conda search --full-name python
+conda search  pandas
+conda install python=3.8
+```
 
 to create a kernel for jupyter notebook
 
@@ -35,4 +41,28 @@ to find the all environment
 ```bash
 
 conda info --envs
+```
+
+Update python
+``` shell
+conda update python
+```
+
+conda update
+``` shell
+conda update -n base -c conda-forge conda
+```
+
+update pip
+
+```shell
+conda update pip
+```
+
+```python
+! pip install --upgrade pip
+```
+
+```shell
+pip --version
 ```
