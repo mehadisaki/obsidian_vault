@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/DS in manufacturing industry.md",
+                "file": "ML/Imbalanced Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/DS in manufacturing industry.md",
+                "file": "ML/Imbalanced Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/DS in manufacturing industry.md",
+                "file": "ML/Imbalanced Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/DS in manufacturing industry.md"
+                "file": "ML/Imbalanced Classification.md"
               }
             }
           }
@@ -159,8 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1c32fd99116eb64",
+  "active": "0bcb26948f7ed6a1",
   "lastOpenFiles": [
+    "ML/Feature engineering.md",
+    "ML/Imbalanced Classification.md",
+    "ML/Most common package in python.md",
+    "ML/Notes.md",
+    "ML/PDF - Python.md",
     "Blog/DS in manufacturing industry.md"
   ]
 }
