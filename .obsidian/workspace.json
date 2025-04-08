@@ -4,22 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "767f73411153e3ab",
-        "type": "tabs",
+        "id": "9ffdf2535a4b7186",
+        "type": "split",
         "children": [
           {
-            "id": "0bcb26948f7ed6a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Imbalanced Classification.md",
-                "mode": "source",
-                "source": false
+            "id": "767f73411153e3ab",
+            "type": "tabs",
+            "dimension": 80.62015503875969,
+            "children": [
+              {
+                "id": "0bcb26948f7ed6a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ML/Explaining model predictions.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Explaining model predictions"
+                }
+              },
+              {
+                "id": "2f822c3a2d5875f1",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.7.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.7.7"
+                }
+              },
+              {
+                "id": "a04cead18cb6264d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Youtube/Crisis Chronicles/intro to Public policy.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "intro to Public policy"
+                }
+              },
+              {
+                "id": "b29cc791babde5dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Organizational Duty/Organizational Duty.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Organizational Duty"
+                }
               }
-            }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "714090cb72dc2800",
+            "type": "tabs",
+            "dimension": 19.379844961240313,
+            "children": [
+              {
+                "id": "df064cb543f6f344",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of Organizational Duty"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -38,8 +106,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +125,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Imbalanced Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +167,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +178,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Imbalanced Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +193,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,7 +207,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -136,9 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Imbalanced Classification.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -158,10 +239,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bcb26948f7ed6a1",
+  "active": "df064cb543f6f344",
   "lastOpenFiles": [
-    "ML/Feature engineering.md",
+    "Organizational Duty",
+    "Youtube/Crisis Chronicles/intro to Public policy.md",
+    "Organizational Duty/Organizational Duty.md",
+    "Life plan.canvas",
     "ML/Imbalanced Classification.md",
+    "ML/Explaining model predictions.md",
+    "ML/Feature engineering.md",
     "ML/Most common package in python.md",
     "ML/Notes.md",
     "ML/PDF - Python.md",
