@@ -1,107 +1,79 @@
 {
   "main": {
-    "id": "dd4e854726c75619",
+    "id": "f2fe74c6a7e7468b",
     "type": "split",
     "children": [
       {
-        "id": "9ffdf2535a4b7186",
-        "type": "split",
+        "id": "eb7fecc80d773fa9",
+        "type": "tabs",
         "children": [
           {
-            "id": "767f73411153e3ab",
-            "type": "tabs",
-            "dimension": 80.62015503875969,
-            "children": [
-              {
-                "id": "0bcb26948f7ed6a1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ML/Explaining model predictions.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Explaining model predictions"
-                }
+            "id": "27a92dfc16bb0d54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
               },
-              {
-                "id": "2f822c3a2d5875f1",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.7.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.7.7"
-                }
-              },
-              {
-                "id": "a04cead18cb6264d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Youtube/Crisis Chronicles/intro to Public policy.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "intro to Public policy"
-                }
-              },
-              {
-                "id": "b29cc791babde5dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Organizational Duty/Organizational Duty.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Organizational Duty"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           },
           {
-            "id": "714090cb72dc2800",
-            "type": "tabs",
-            "dimension": 19.379844961240313,
-            "children": [
-              {
-                "id": "df064cb543f6f344",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {},
-                  "icon": "dot-network",
-                  "title": "Mind Map of Organizational Duty"
-                }
-              }
-            ]
+            "id": "2567a3a775a1f85c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
+            "id": "81f48c0f8ee720ee",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "ML/ML article.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "ML article"
+            }
+          },
+          {
+            "id": "8a61182411cb1abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Survival Analysis- interpretation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Survival Analysis- interpretation"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce7f195d5b1c5c70",
+    "id": "5ee5a92a227d3190",
     "type": "split",
     "children": [
       {
-        "id": "a670be2bd4915b96",
+        "id": "35608738d4af049b",
         "type": "tabs",
         "children": [
           {
-            "id": "acfab2e3220809b0",
+            "id": "89b0ad28d52273d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -114,12 +86,12 @@
             }
           },
           {
-            "id": "a1c32fd99116eb64",
+            "id": "ec3d0d818588a1c8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Use",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +103,7 @@
             }
           },
           {
-            "id": "38604a237ec8dbfe",
+            "id": "f392b7b4d780e96b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -147,15 +119,15 @@
     "width": 300
   },
   "right": {
-    "id": "52383b5c39a38c3f",
+    "id": "6b654bdcef62fa4c",
     "type": "split",
     "children": [
       {
-        "id": "1d76166b07fd9c3e",
+        "id": "b80f2e9d556a851a",
         "type": "tabs",
         "children": [
           {
-            "id": "852acb2ea8773707",
+            "id": "54712a11f63f4b20",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -173,7 +145,7 @@
             }
           },
           {
-            "id": "44c2019ce03f638d",
+            "id": "ed433f05b73cb295",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -186,20 +158,22 @@
             }
           },
           {
-            "id": "60da1b5b70532082",
+            "id": "1cf7dc470565b7b0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "bc2c0b309f797533",
+            "id": "4db9f5de3a563387",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -213,11 +187,15 @@
             }
           },
           {
-            "id": "83487e4f23235dec",
+            "id": "e5826c2526cc1928",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Outline"
             }
@@ -231,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -239,18 +218,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df064cb543f6f344",
+  "active": "8a61182411cb1abe",
   "lastOpenFiles": [
-    "Organizational Duty",
-    "Youtube/Crisis Chronicles/intro to Public policy.md",
-    "Organizational Duty/Organizational Duty.md",
-    "Life plan.canvas",
-    "ML/Imbalanced Classification.md",
-    "ML/Explaining model predictions.md",
-    "ML/Feature engineering.md",
-    "ML/Most common package in python.md",
-    "ML/Notes.md",
-    "ML/PDF - Python.md",
-    "Blog/DS in manufacturing industry.md"
+    "Pasted image 20250927105720.png",
+    "Pasted image 20250927105707.png",
+    "Pasted image 20250927105648.png",
+    "ML/ML article.base",
+    "Survival Analysis- interpretation.md",
+    "Life Time calculation",
+    "ML/NLP/Cleaning Text.md"
   ]
 }
